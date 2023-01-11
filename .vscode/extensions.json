@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"syler.sass-indented",
+		"stylelint.vscode-stylelint",
+		"EditorConfig.EditorConfig",
+		"diz.ecsstractor-port",
+		"HTMLHint.vscode-htmlhint",
+		"PKief.material-icon-theme",
+		"ionutvmi.path-autocomplete",
+		"esbenp.prettier-vscode",
+		"rebornix.project-snippets"
+	]
+}

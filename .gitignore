@@ -14,7 +14,7 @@ $RECYCLE.BIN/
 
 node_modules
 .publish
-.vscode/
+# .vscode/
 build/
 package-lock.json
 # gulp/config/ftp.js

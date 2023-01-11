@@ -1,0 +1,12 @@
+{
+	"picture": {
+		"prefix": "picture",
+		"body": [
+			"<picture>",
+			"  <source type=\"image/webp\" data-srcset=\"$3.webp\">",
+			"  <img class=\"$1lazyload\" alt=\"$2\" data-src=\"$3.$4\">",
+			"</picture>"
+		],
+		"description": "Snippet for basic image structure"
+	}
+}
