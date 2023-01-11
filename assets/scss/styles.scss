@@ -1,0 +1,19 @@
+// * Global styles (Шрифты, переменные, сбросы)
+@import 'libs/normalize';
+@import 'vars';
+@import 'mixins';
+@import 'fonts';
+@import 'settings';
+@import 'interface';
+
+// * Libs styles
+// @import "libs/animate";
+
+// * Подключение стилей swiper-слайдера
+// @import "libs/swiper-bundle.min";
+// @import "components/sliders";
+
+// * Main styles
+@import '../components/header/header';
+@import 'chunk/hero';
+@import 'chunk/footer';

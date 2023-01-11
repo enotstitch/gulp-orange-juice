@@ -1,0 +1,20 @@
+{
+	"doctype-first": false,
+	"style-disabled": true,
+	"attr-no-duplication": true,
+	"attr-no-unnecessary-whitespace": true,
+	"attr-unsafe-chars": true,
+	"attr-value-double-quotes": true,
+	"attr-value-not-empty": true,
+	"attr-sorted": true,
+	"attr-whitespace": true,
+	"alt-require": true,
+	"input-requires-label": true,
+	"tag-pair": true,
+	"tagname-lowercase": true,
+	"empty-tag-not-self-closed": false,
+	"src-not-empty": true,
+	"id-unique": true,
+	"inline-style-disabled": true,
+	"space-tab-mixed-disabled": "tab"
+}

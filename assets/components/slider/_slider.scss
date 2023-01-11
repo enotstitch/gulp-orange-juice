@@ -1,0 +1,33 @@
+.slider-wrap {
+	position: relative;
+	overflow: hidden;
+	margin: 20px 0;
+	border: 2px var(--accent-color) dashed;
+	border-radius: 20px;
+	width: 600px;
+	height: auto;
+}
+
+.swiper {
+	&-btn {
+		position: absolute;
+		top: 50%;
+		z-index: 5;
+		width: 30px;
+		height: 30px;
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		transform: translateY(-50%);
+	}
+
+	&--next {
+		right: 20px;
+		background-image: url('../img/sliders/next-arrow.svg');
+	}
+
+	&--prev {
+		left: 20px;
+		background-image: url('../img/sliders/prev-arrow.svg');
+	}
+}

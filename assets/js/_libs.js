@@ -1,0 +1,1 @@
+import './libs/lazysizes.min';
